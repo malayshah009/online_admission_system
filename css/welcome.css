@@ -1,0 +1,77 @@
+		#head
+		{
+		   padding-top : 5px;
+		   
+		}
+		ul
+		{
+			list-style-type: none;
+		    margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color: #227EB6;
+		}
+		li 
+		{
+			float: right;
+			border-right: 2px solid black;
+		}
+
+		li a 
+		{
+			display: block;
+			color: black;
+			text-align: center;
+			padding: 14px 16px;
+			text-decoration: none;
+		}
+		li a:hover 
+		{
+			background-color: black;
+			color : white;
+		}
+		.active 
+		{
+			background-color: #04AA6D;
+		}
+		.gallery 
+		{
+			margin: 5px;
+			border: 1px solid #ccc;
+			float: left;
+			width: 180px;
+		}
+		.gallery img 
+		{
+			width: 100%;
+			height: auto;
+		}
+		.desc 
+		{
+			padding: 15px;
+			text-align: center;
+		}
+		.backk
+		{
+			background-color : ;
+		}
+		.wel
+		{
+			text-align : center;
+			font-size : 40px;
+			font-family: "Times New Roman", Times, serif;
+		}
+		.row
+		{
+			text-align : justify;
+		}
+		.footer 
+		{
+		   left: 0;
+		   bottom: 0;
+		   width: 100%;
+		   background-color: #043F63;
+		   color: white;
+		   text-align: center;
+		   float : right;
+		}
